@@ -1,0 +1,37 @@
+###########################################################################################################################################################
+Agenda:
+In this interview you will be tested all the supervised learning algorithms along with mathamatic concepts and exploratory data analysis
+
+The major agenda of this session is to give you an experience of real time Machine learning engineer interview.
+
+If you can clear this interview you will be in a decent position to clear the real world Machine learning engineer roles
+
+You can use floater interviews to reapear for the same interview
+#####################################################################################################################################################
+
+Syllabus
+
+EDA, Covariance, Correlation, Pearson, Spearman Rank, Multi-dimensional, Feature Engineering, Column normalization, Standardization, Covariance matrix, Missing Values, Outlier treatment
+
+Vector space modeling, Cosine Similarity, Euclidean Distance
+
+Linear Regression, Gradient Descent, Multicollinearity, VIF, R-square, Heteroscedasticity, Sklearn, Polynomial Regression, Bias-Variance trade-off, Regularization
+
+Logistic Regression, Squashing function, AUC. ROC, Precision-Recall Curve, Confusion matrix, Specificity
+
+KNN, Naive Bayes, Support Vector Machine, Bayesian Machine Learning
+
+Decision Trees, Ensemble learning, Bagging, Boosting
+
+######################################################################################################################################################
+Examples:
+
+how will you predict a data point for multi class classification and assuming you are working with KNN where there is tie of nearest neighbours?
+
+when will you use AUC over F1 score?
+
+can you explain the working of GBDT incase of multi class classification?
+
+how will support vector regression works?
+
+########################################################################################################################################################
